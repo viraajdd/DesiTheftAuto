@@ -8,3 +8,11 @@ Use at your own risk
 This Will not work on ios.
 I will be designing the ios application
 It will only work with Android 5.0 Lollipop and above.
+
+This is made with Kotlin.
+
+
+Special Thanks to:
+
+LibGDX
+Android Studio
