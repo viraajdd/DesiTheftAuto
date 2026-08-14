@@ -15,4 +15,5 @@ This is made with Kotlin.
 Special Thanks to:
 
 LibGDX
+
 Android Studio
